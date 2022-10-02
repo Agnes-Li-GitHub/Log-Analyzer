@@ -39,5 +39,3 @@ Example:
 5. VISIT records will only appear after the first USER record
 6. The page id in a VISIT record appears only after its corresponding PAGE record
 7. There will be at least 5 users and 5 pages
-
-FYI: This is a course assignment.
